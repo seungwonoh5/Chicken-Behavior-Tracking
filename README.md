@@ -4,7 +4,7 @@ This is a collaborative project between the Departments of Computer Science and 
 This repo contains training mask-RCNN and Faster-RCNN object detector with Detectron2 (Pytorch-based object detection library) on a custom chicken video dataset collected from Agriculture department to replace YOLOv3 detector in DeepSORT tracking algorithm to improve chicken tracking performance.
 
 ## Installation
-Clone this repository by running git clone https://github.com/seungwonoh5/Chicken-Behavior-Tracking
+Clone this repository by running ```git clone https://github.com/seungwonoh5/Chicken-Behavior-Tracking```
 
 ## Dependencies
 To run our program, it requires the following:
