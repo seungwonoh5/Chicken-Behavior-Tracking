@@ -24,10 +24,10 @@ detectron2.ipynb: this file serves as the main script for the experiment that tr
 
 We have included jupyter notebooks that provide detailed examples of our experiments. You can either run the notebook main.ipynb which goes through the complete process of the experiment and outputs visualizations of the experiment or run main script that imports other script modules in the repo to goes through the whole experiment. You can use individual scripts to reuse part of the program that you need.
 
-"""
+```
 pip install -r requirements.txt
 python main.py
-"""
+```
 
 ## Results
 
