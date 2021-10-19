@@ -8,12 +8,12 @@ Clone this repository by running ```git clone https://github.com/seungwonoh5/Chi
 
 ## Dependencies
 To run our program, it requires the following:
-numpy==1.19.5
-pandas==1.1.5
-matplotlib==3.2.2
-tensorflow==2.4.1
-scikit-learn==0.22.2
-All packages will be installed automatically when running pip3 install -r requirements.txt to install all the dependencies.
+- numpy==1.19.5
+- pandas==1.1.5
+- matplotlib==3.2.2
+- tensorflow==2.4.1
+- scikit-learn==0.22.2
+All packages will be installed automatically when running ```pip3 install -r requirements.txt``` to install all the dependencies.
 
 ## What's Included
 Inside the repo, there are 2 scripts and 2 notebook file.
